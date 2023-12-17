@@ -5,7 +5,8 @@ import { Application, coreNodeProvider } from '@data-story/core';
 import { createRoot } from 'react-dom/client';
 import '@data-story/ui/dist/data-story.css';
 
-const root = createRoot(document.body);
+const container = document.getElementById('root');
+const root = createRoot(container);
 
 const app = new Application();
 
