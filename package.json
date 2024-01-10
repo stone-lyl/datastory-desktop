@@ -1,6 +1,6 @@
 {
-  "name": "ds-el-2",
-  "productName": "ds-el-2",
+  "name": "data-story-alfa",
+  "productName": "data-story-alfa",
   "version": "1.0.0",
   "description": "My Electron application description",
   "main": ".webpack/main",
